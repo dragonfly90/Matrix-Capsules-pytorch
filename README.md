@@ -22,10 +22,14 @@ Matrix-Capsules-EM-Tensorflow:
 https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow
 
 30 epochs
+
 batch:935, loss:0.0025, acc:64/64
+
 Epoch4 Train acc:0.99175
+
 Testing...
 Epoch4 Test acc:0.9865
+
 time duration:  2181.8730306625366
 
 

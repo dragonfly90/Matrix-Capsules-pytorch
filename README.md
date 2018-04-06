@@ -31,7 +31,7 @@ Testing...
 
 Epoch4 Test acc:0.9865
 
-time duration:  2181.8730306625366
+time duration:  2181.8730306625366s
 
 1016 iteration, time: 16:38 - 16:41
 

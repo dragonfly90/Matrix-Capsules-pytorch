@@ -15,6 +15,21 @@ more args can be found in ```utils.py```, and if you want to change A,B,C,D, go 
 ## Results
 The test accuracy is around 97.6% after 1 epoch and 98.7% after 2 epochs of training with a small Capsule of A,B,C,D,r = 64,8,16,16,1. After 30 epochs of training, the best acc is around 99.3%. More results on different configurations are welcomed.
 
+## Time
+
+Matrix-Capsules-EM-Tensorflow: 
+
+https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow
+
+30 epochs
+batch:935, loss:0.0025, acc:64/64
+Epoch4 Train acc:0.99175
+Testing...
+Epoch4 Test acc:0.9865
+time duration:  2181.8730306625366
+
+
+1016 iteration, time: 16:38 - 16:41
 
 ## TODO
 * using more matrix operation rather than ```for``` iteration in E-step of ```Capsules.py```.

@@ -28,10 +28,10 @@ batch:935, loss:0.0025, acc:64/64
 Epoch4 Train acc:0.99175
 
 Testing...
+
 Epoch4 Test acc:0.9865
 
 time duration:  2181.8730306625366
-
 
 1016 iteration, time: 16:38 - 16:41
 

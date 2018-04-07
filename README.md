@@ -21,6 +21,8 @@ Matrix-Capsules-EM-Tensorflow:
 
 https://github.com/www0wwwjs1/Matrix-Capsules-EM-Tensorflow
 
+Original: 
+
 4 epochs
 
 batch:935, loss:0.0025, acc:64/64
@@ -32,6 +34,11 @@ Testing...
 Epoch4 Test acc:0.9865
 
 time duration:  2181.8730306625366s
+
+Speed up:
+
+# third_tensor = torch.cat((first_tensor, second_tensor), 0)
+
 
 1016 iteration, time: 16:38 - 16:41
 

@@ -37,6 +37,8 @@ time duration:  2181.8730306625366s
 
 
 Speed up:
+Epoch4 Test acc:0.9877
+time duration:  1948.444207906723
 
 
 # third_tensor = torch.cat((first_tensor, second_tensor), 0)

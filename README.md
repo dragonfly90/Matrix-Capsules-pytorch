@@ -29,6 +29,8 @@ batch:935, loss:0.0025, acc:64/64
 
 Epoch4 Train acc:0.99175
 
+4*4
+
 Testing...
 
 Epoch4 Test acc:0.9872
@@ -54,7 +56,9 @@ Epoch4 Test acc:0.9869
 time duration:  2110.740709543228
 
 6*6 matrix capsule
+
 Epoch4 Test acc:0.9825
+
 time duration:  2382.0352709293365
 
 

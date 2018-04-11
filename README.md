@@ -31,9 +31,10 @@ Epoch4 Train acc:0.99175
 
 Testing...
 
-Epoch4 Test acc:0.9865
+Epoch4 Test acc:0.9872
 
-time duration:  2181.8730306625366s
+time duration:  1927.7292823791504
+
 
 
 Speed up:
@@ -41,12 +42,20 @@ Epoch4 Test acc:0.9877
 time duration:  1948.444207906723
 
 3*3 matrix capsule
+
 Epoch4 Test acc:0.9866
+
 time duration:  1801.0306959152222
 
 5*5 matrix capsule
+
 Epoch4 Test acc:0.9869
+
 time duration:  2110.740709543228
+
+6*6 matrix capsule
+Epoch4 Test acc:0.9825
+time duration:  2382.0352709293365
 
 
 # third_tensor = torch.cat((first_tensor, second_tensor), 0)

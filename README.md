@@ -40,6 +40,14 @@ Speed up:
 Epoch4 Test acc:0.9877
 time duration:  1948.444207906723
 
+3*3 matrix capsule
+Epoch4 Test acc:0.9866
+time duration:  1801.0306959152222
+
+5*5 matrix capsule
+Epoch4 Test acc:0.9869
+time duration:  2110.740709543228
+
 
 # third_tensor = torch.cat((first_tensor, second_tensor), 0)
 

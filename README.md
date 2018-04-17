@@ -63,6 +63,14 @@ time duration:  2382.0352709293365
  
 40mins
 
+iterations: 5
+
+Epoch4 Train acc:0.09871666666666666
+Testing...
+Epoch4 Test acc:0.098
+time duration:  5617.123788833618
+
+
 # third_tensor = torch.cat((first_tensor, second_tensor), 0)
 
 https://github.com/www0wwwjs1

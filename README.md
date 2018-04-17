@@ -60,12 +60,15 @@ time duration:  2110.740709543228
 Epoch4 Test acc:0.9825
 
 time duration:  2382.0352709293365
-
+ 
+40mins
 
 # third_tensor = torch.cat((first_tensor, second_tensor), 0)
 
+https://github.com/www0wwwjs1
 
-1016 iteration, time: 16:38 - 16:41
+1.5k iteration, time: 23:37:08-23:49:51
+accuracy: 0.94
 
 ## TODO
 * using more matrix operation rather than ```for``` iteration in E-step of ```Capsules.py```.
